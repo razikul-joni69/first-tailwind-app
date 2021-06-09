@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/first-tailwind-app/static/css/main.8e73e9a2.chunk.css",
+    "main.js": "/first-tailwind-app/static/js/main.d9bb6153.chunk.js",
+    "main.js.map": "/first-tailwind-app/static/js/main.d9bb6153.chunk.js.map",
+    "runtime-main.js": "/first-tailwind-app/static/js/runtime-main.a8c43765.js",
+    "runtime-main.js.map": "/first-tailwind-app/static/js/runtime-main.a8c43765.js.map",
+    "static/js/2.eac06f46.chunk.js": "/first-tailwind-app/static/js/2.eac06f46.chunk.js",
+    "static/js/2.eac06f46.chunk.js.map": "/first-tailwind-app/static/js/2.eac06f46.chunk.js.map",
+    "static/js/3.bbfe8e56.chunk.js": "/first-tailwind-app/static/js/3.bbfe8e56.chunk.js",
+    "static/js/3.bbfe8e56.chunk.js.map": "/first-tailwind-app/static/js/3.bbfe8e56.chunk.js.map",
+    "index.html": "/first-tailwind-app/index.html",
+    "static/css/main.8e73e9a2.chunk.css.map": "/first-tailwind-app/static/css/main.8e73e9a2.chunk.css.map",
+    "static/js/2.eac06f46.chunk.js.LICENSE.txt": "/first-tailwind-app/static/js/2.eac06f46.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8c43765.js",
+    "static/js/2.eac06f46.chunk.js",
+    "static/css/main.8e73e9a2.chunk.css",
+    "static/js/main.d9bb6153.chunk.js"
+  ]
+}
