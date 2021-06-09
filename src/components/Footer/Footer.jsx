@@ -134,7 +134,7 @@ const Footer = () => {
       md:flex-row max-w-6xl "
                 >
                     <div class="mt-2">
-                        © Copyright 2020. All Rights Reserved.
+                        © Copyright 2020. All Rights Reserved razikul.joni69.
                     </div>
                     <div class="md:flex-auto md:flex-row-reverse mt-2 flex-row flex justify-center">
                         <a href="/#" class="w-6 mx-1">

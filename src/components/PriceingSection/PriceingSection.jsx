@@ -3,7 +3,7 @@ import React from "react";
 const PriceingSection = () => {
     return (
         <div className="mt-16">
-            <div class="w-full bg-blue pt-8">
+            <div class="w-full pt-8">
                 <div class="flex flex-col sm:flex-row justify-center mb-6 sm:mb-0">
                     <div class="bg-gray-50 sm:flex-1 lg:flex-initial lg:w-1/4 rounded-lg rounded-tr-none bg-white mt-4 flex flex-col">
                         <div class="p-8 text-3xl font-bold text-center">
