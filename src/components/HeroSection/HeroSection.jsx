@@ -1,7 +1,3 @@
-/* This example requires Tailwind CSS v2.0+ */
-
-const navigation = [];
-
 export default function Example() {
     return (
         <div className="relative bg-white overflow-hidden ">
